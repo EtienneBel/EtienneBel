@@ -5,7 +5,7 @@
 🔭 Currently building microservices architectures and managing cloud infrastructure  
 🌱 Pursuing AWS Solutions Architect certification  
 👨‍💻 6+ years experience in Java, Spring Boot, Laravel, Docker, Kubernetes  
-👥 Leading GDG Abidjan community (500+ developers)  
+👥 Leading GDG Ouaga community (500+ developers)  
 🎯 Focusing on backend excellence, CI/CD automation, and scalable systems  
 📫 Reach me: belemgnegreetienne@gmail.com  
 
@@ -40,7 +40,7 @@
 
 ### 🌍 Community
 
-- 🎤 GDG Abidjan Lead (2020-Present)
+- 🎤 GDG Ouaga Lead (2020-Present)
 - 📝 Tech Writer on [Medium](https://medium.com/@belemgnegreetienne)
 - 🏆 Mentored 50+ developers
 
