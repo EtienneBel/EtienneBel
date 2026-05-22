@@ -1,37 +1,45 @@
-# Etienne Belemgnegre
+# Hi, I'm Etienne Belemgnegre 👋
 
-Cloud & DevOps Engineer — AWS, GCP, Kubernetes, Terraform
+**Senior Backend Engineer** | Microservices & Cloud | GCP Certified
 
-I build and operate production infrastructure. Currently managing 15+ containerized microservices with 99.9% uptime, automated CI/CD pipelines, and monitoring stacks at INFLUO in Abidjan.
+7+ years building distributed systems, payment platforms, and government-grade applications across West Africa and Canada.
 
-7+ years in production systems. 3 years remote with distributed teams across timezones.
+## What I do
 
-## What I work with
+- Architect and operate **microservices** 
+- Build payment integrations (Mobile Money — Orange Money, Moov Money)
+- Design CI/CD pipelines, monitoring stacks (ELK, Prometheus/Grafana)
+- Deploy on **Google Cloud Platform** (Cloud Run, GKE)
 
-**Cloud & Infrastructure** — AWS (EC2, EKS, RDS, S3, Lambda), Google Cloud Platform (GKE, Cloud SQL), Terraform, Ansible
+## Tech Stack
 
-**Containers & Orchestration** — Docker, Kubernetes, Helm, EKS, GKE
-
-**CI/CD & GitOps** — GitLab CI, GitHub Actions, ArgoCD, Jenkins
-
-**Monitoring** — Prometheus, Grafana, ELK Stack, Loki
-
-**Backend** — Java/Spring Boot, Spring Cloud, Python, PostgreSQL, Redis
+```
+Backend:      Java · Spring Boot · Spring Cloud · REST APIs · OAuth2
+Cloud:        GCP · Docker · Kubernetes
+DevOps:       GitLab CI/CD · Prometheus · Grafana · ELK Stack
+Data:         PostgreSQL · Redis · Caffeine
+```
 
 ## Certifications
 
-- Google Cloud Associate Cloud Engineer (ACE)
+- ✅ Google Cloud Associate Cloud Engineer (2026)
+- 📚 Google Cloud Professional Cloud Architect (in progress)
+- 📚 AWS Solutions Architect Associate (next)
 
-## Numbers
+## Writing
 
-- 15+ microservices in production
-- 99.9% uptime
-- 70% deployment time reduction through CI/CD
-- 500+ developers in GDG Ouagadougou community (Lead since 2020)
+I write about backend engineering, microservices, and cloud on Medium:
 
-## Links
+- [Mastering Microservices with Spring Boot — 3-part series](https://medium.com/@belemgnegreetienne)
+- [ELK Stack: Multi-Application Centralized Logging](https://medium.com/@belemgnegreetienne)
+- [Building a High-Performance Cache System with Caffeine & Redis](https://medium.com/@belemgnegreetienne)
 
-- Portfolio: [ebelemgnegre.dev](https://ebelemgnegre.dev)
-- LinkedIn: [in/etienne-belemgnegre](https://linkedin.com/in/etienne-belemgnegre)
-- Articles: [Medium](https://medium.com/@belemgnegreetienne)
-- Email: belemgnegreetienne@gmail.com
+## Community
+
+**GDG Ouagadougou Mentor** — 1,000+ member developer community · 20+ workshops delivered
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etienne-belemgnegre/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@belemgnegreetienne)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://ebelemgnegre.dev)
